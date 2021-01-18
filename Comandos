@@ -1,0 +1,12 @@
+ng g c pages/about --spec=false 
+--Generar componente en pages llamado about
+--Siempre verificar su creación en app.module.ts
+
+git add .
+--Agregar elementos modificados
+
+git commit -m "Fin seccion 3"
+--Guardar los cambios modificados con comentario al respecto
+
+
+

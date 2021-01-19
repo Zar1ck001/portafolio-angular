@@ -1,3 +1,9 @@
+ng new nombre
+--Crea nuevo proyecto con nombre
+
+ng serve -o 
+--Iniciar aplicación montada en localhost
+
 ng g c pages/about --spec=false 
 --Generar componente en pages llamado about
 --Siempre verificar su creación en app.module.ts

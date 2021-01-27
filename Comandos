@@ -14,5 +14,6 @@ git add .
 git commit -m "Fin seccion 3"
 --Guardar los cambios modificados con comentario al respecto
 
-
+ng build --prod
+--Construir para produccion
 
